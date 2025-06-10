@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I love learning new technologies and developing code<br>I’m looking to collaborate on coding projects and competitions<br>I’m currently learning about DevOps and Data Science<br>Costa Rica Institute of Technology (ITCR)
 
 
