@@ -1,62 +1,68 @@
-# 👋 Hi, I'm Dominic
+# Hi, I'm Dominic
 
 🎓 Computer Engineering graduate (with honors)  
-💻 Backend | Data Engineering | Distributed Systems  
+💻 Backend Engineering | Data Engineering | Distributed Systems  
 🌎 Costa Rica  
 
 ---
 
 ## 🚀 About Me
-I focus on building reliable systems where software, data, and infrastructure intersect.
+Computer Engineering graduate focused on backend systems, data infrastructure, and distributed architectures.
 
-- Backend development & APIs
-- Data pipelines and database design
-- Distributed systems & cloud deployments
-- Strong interest in performance and system design
+I build reliable systems where APIs, databases, and cloud infrastructure intersect — designing normalized data models, backend services, and scalable deployments.
+
+Strong focus on system performance, data architecture, and concurrent systems.
 
 ---
 
 ## 🛠 Tech Stack
+Languages:  
 C • C++ • Java • Python • JavaScript  
+
+Databases:  
 MySQL • PostgreSQL • SQL Server • MongoDB  
+
+Backend & Tools:  
+Node.js • PHP • REST APIs • Git  
+
+Cloud & Infrastructure:  
 Docker • Kubernetes • Azure  
-Node.js • React • Git  
 
 ---
 
 ## 📌 Featured Projects
 
 ### 🔹 SIGAC – Healthcare Scheduling System
-- Designed relational data models for hospital operations  
-- Built APIs with PHP + MySQL (stored procedures)  
-- Automated scheduling, waiting lists, and reporting  
-
-### 🔹 HTTP Server (Rust)
-- Multi-threaded server with thread pool  
-- Cookie handling and request parsing  
-- Tested with Postman and unit tests  
-
-### 🔹 Software-Defined Router (Kubernetes)
-- Helm-based deployment  
-- IPTables routing between services  
-- Internal traffic control without exposing ports  
-
-### 🔹 EssentialDB Platform
-- SQL Server + Flyway migrations  
-- REST API in Python  
-- Stress testing with JMeter  
+- Designed normalized relational schema for healthcare operations (agendas, patients, consulting rooms, waiting lists)  
+- Built backend APIs using PHP and MySQL with stored procedures for data processing and aggregation  
+- Modeled scheduling workflows with weekly variations and validation of resource constraints  
+- Automated reporting and operational data access for hospital use  
 
 ---
 
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=dom-ca&show_icons=true&theme=tokyonight)
+### 🔹 HTTP Server (Rust)
+- Built a multi-threaded HTTP server using a thread pool to handle concurrent requests  
+- Implemented request parsing, routing logic, and cookie handling  
+- Developed and validated endpoints using Postman and unit testing  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dom-ca&layout=compact&theme=tokyonight)
+---
+
+### 🔹 Software-Defined Router (Kubernetes)
+- Designed Helm-based deployment for Kubernetes environments  
+- Implemented IPTables-based routing between internal services  
+- Enabled internal traffic control without exposing services externally  
+
+---
+
+### 🔹 EssentialDB Platform
+- Designed relational database in SQL Server with schema versioning using Flyway  
+- Built RESTful API in Python for data access and processing  
+- Performed stress testing with JMeter and explored query optimization techniques  
 
 ---
 
 ## 🤝 Connect with Me
-- 💼 LinkedIn: linkedin.com/in/dcasaresag
-- 📧 Email: dominiccasares10@gmail.com
+- 💼 LinkedIn: https://linkedin.com/in/dcasaresag  
+- 📧 Email: dominicccasares10@gmail.com  
 
 ---
