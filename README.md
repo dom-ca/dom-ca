@@ -1,5 +1,5 @@
 # About Me:
-I love learning new technologies and developing code<br>I’m looking to collaborate on coding projects and competitions<brCosta Rica Institute of Technology (ITCR)
+I love learning new technologies and developing code<br>I’m looking to collaborate on coding projects and competitions<br>Costa Rica Institute of Technology (ITCR)
 
 
 ## 🌐 Socials:
